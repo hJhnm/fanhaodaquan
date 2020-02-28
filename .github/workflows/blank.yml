@@ -1,0 +1,1 @@
+名称：ci n non：n构建：n n运行-on：Ubuntu-最新的n n步骤：n-用途：action/checkout@v2 n-name：运行一个单行脚本n运行：回声你好，世界！n名：运行多行脚本n run：n echo添加其他要构建的操作，n回送测试，并部署项目。
